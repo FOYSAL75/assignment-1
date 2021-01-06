@@ -1,0 +1,104 @@
+body{
+    padding: 0px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: darkgray;
+}
+.button{
+    border: none;
+    background-image: -webkit-linear-gradient(45deg, rgb(223, 65, 65),rgb(228, 148, 20),rgb(255, 81, 0));
+    padding: 14px;
+    width: 150px;
+    color: wheat;
+    font-size: large;
+    border-radius: 15px;
+}
+/* navbar start here */
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+
+    
+}
+.navbar{
+    text-align: right;
+}
+/* navbar end here */
+
+/* about me start here*/
+.name{
+    color: coral;
+}
+.about-me{
+    width: 40%;
+    float: left;
+    padding: 3%;
+    margin: 2%;
+    padding-bottom: 10px;
+    
+}
+img{
+    width: 100%;
+}
+.padding{
+    padding-bottom: 300px;
+}
+
+
+/* about me end here*/
+
+/*card section start here*/
+.ex{
+    text-align: center;
+}
+.card-div{
+    width: 25%;
+    float: left;
+    padding: 3%;
+    margin: 1%;
+    text-align: center;
+    margin-bottom: 200px;
+    
+}
+.single-project{
+    box-shadow: 10px 10px 50px  gray;
+
+}
+
+
+
+/*card section end here*/
+/*Work-Inquiry start*/
+.Work-Inquiry{
+
+height: 500px;
+width: 100%;
+background-color:white;
+    
+    
+}
+.bg-img{
+    height: 70px;
+    width: 900px;
+background-image: url(footer.png);
+text-align: center;
+padding: 5%;
+
+margin: 5%;
+border-radius: 20%;
+margin-left: 150px;
+}
+
+
+
+/*Work-Inquiry end*/
+footer{
+    text-align: center;
+}
